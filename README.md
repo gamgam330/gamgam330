@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+
+⭐ Hi I'm GyiMin ⭐
+
+🏫 ACADEMIC BACKGROUND 🏫
+SangMyung Univ 19th
+
+💻 MAJOR 💻
+Department of Computer Science
+
+📧 EAMIL 📧
+gamgam0330@naver.com
+gamgam0330@gmail.com
+
 <!--
 **gamgam330/gamgam330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
