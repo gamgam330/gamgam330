@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-            ⭐ Hi I'm GyiMin ⭐
+            ⭐ Hi I'm GyuMin ⭐
 
          🏫 ACADEMIC BACKGROUND 🏫
              SangMyungUniv 19th
