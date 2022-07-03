@@ -4,7 +4,7 @@
             ⭐ Hi I'm GyuMin ⭐
 
          🏫 ACADEMIC BACKGROUND 🏫
-             SangMyung Univ 19th
+            SangMyung Univ 19th
       
                 💻 MAJOR 💻
        Department of Computer Science
