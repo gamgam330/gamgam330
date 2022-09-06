@@ -1,3 +1,4 @@
+<div align = "center">
 ### Hi there 👋
 
 
@@ -27,7 +28,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align = "center">
+
 <h4>💻 Tech Stack 💻</h4>
 <img src="https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=Java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/python-00599C?style=flat-square&logo=python&logoColor=white"/> 
