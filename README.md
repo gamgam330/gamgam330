@@ -27,3 +27,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h4>💻 Tech Stack 💻</h4>
+<img src="https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=Java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+
+<br/><br/>
+![gamgam330's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamgam330&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamgam330&layout=compact&theme=radical)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ks0689)](https://solved.ac/ks0689)
