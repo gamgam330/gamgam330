@@ -1,14 +1,21 @@
 <div align = "center">
 ⭐ Hi I'm GyuMin ⭐
 
+      
 🏫 ACADEMIC BACKGROUND 🏫
+      
 SangMyung Univ 19th
       
+      
 💻 MAJOR 💻
+      
 Department of Computer Science
     
+      
 📧 EAMIL 📧
+      
 gamgam0330@naver.com
+      
 gamgam0330@gmail.com
 
 <!--
