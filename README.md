@@ -1,5 +1,4 @@
 <div align = "center">
- ###hi there
 ⭐ Hi I'm GyuMin ⭐
 
 🏫 ACADEMIC BACKGROUND 🏫
