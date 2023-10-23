@@ -13,8 +13,8 @@
 - 2022 GDSC 수료
 - 2022~2023 교내 알고리즘 동아리 SCV회장
 - 2023 AI를 이용한 영화 추천 웹사이트 개발
-- 2023 미국 샌프란시스코 SVSTIP Ferryfectsway(Automatic Pet door) 2등
-- 2023 GDG Campus Korea x Whatever 1등(당신만을 위한 퍼스널 코디네이터 OFI 개발)
+- 2023 미국 샌프란시스코 SVSTIP 2등Ferryfectsway(Automatic Pet door) 개발
+- 2023 GDG Campus Korea x Whatever 1등당신만을 위한 퍼스널 코디네이터 OFI 개발
 - 2023~ 기숙사 룸메이트 매칭 서비스 Geeks 개발 중
 - 2023 스프링 스터디
 - 2023 코틀린 스터디
