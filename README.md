@@ -18,8 +18,9 @@
 - 2023~ 기숙사 룸메이트 매칭 서비스 Geeks 개발 중
 - 2023 스프링 스터디
 - 2023 코틀린 스터디
+- 2024 멋쟁이사자처럼 BacnEnd 운영진
 
-전체 학점 : 4.34 / 4.5 | 전공학점 : 4.35 / 4.5
+전체 학점 : 4.35 / 4.5 | 전공학점 : 4.36 / 4.5
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
