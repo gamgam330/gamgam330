@@ -21,7 +21,7 @@
 - 2024 멋쟁이사자처럼 BackEnd 운영진
 - 2024 깃허브 경량화 프로젝트 (몽골 학회 참여)
 
-전체 학점 : 4.35 / 4.5 | 전공학점 : 4.36 / 4.5
+전체 학점 : 4.36 / 4.5 | 전공학점 : 4.36 / 4.5
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
