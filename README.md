@@ -2,7 +2,7 @@
 
 <p>
     <Strong>🏫 기술 블로그 🏫</Strong><br>
-    <a href="https://velog.io/@gamgam330"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+    <a href="https://90000e.tistory.com"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <br><br>
 <Strong>📧EMAIL📧</Strong><br>gamgam0330@naver.com<br>
 </p>
